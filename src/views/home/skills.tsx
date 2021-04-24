@@ -19,7 +19,7 @@ export default function HomeSkills() {
     return (
         <div className="pb-10">
             <Divider title="Skills" />
-            <ul className="py-6 space-x-4 space-y-4">
+            <ul className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-6 mt-4 gap-4">
                 {
                     [
                         ["C#", "Language"],
