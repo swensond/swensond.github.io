@@ -21,9 +21,9 @@ export default function HomeExperience() {
                             <li>Python, Java, C#, and TypeScript development</li>
                             <li>Introduced TypeScript into the backend development process</li>
                             <li>Assisted in introducing AWS CloudFormation for orchestration</li>
-                            <li>Assisted in designing and implementing serverless backend architecture</li>
-                            <li>Lifted internal tooling from Rackspace to AWS</li>
-                            <li>Assisted in implementing GoCD into the serverless development flow</li>
+                            <li>Assisted in designing and implementing serverless architecture</li>
+                            <li>Assisted in lifting internal tooling from Rackspace to AWS</li>
+                            <li>Assisted in implementing GoCD into the development flow</li>
                             <li>Assisted in implementing a modern accessibility friendly frontend</li>
                         </ul>
                     </div>
