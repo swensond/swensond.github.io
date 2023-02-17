@@ -1,1 +1,0 @@
-import{j as e,F as t}from"./index-4125f8b7.js";function a(){return e(t,{children:e("h2",{className:"text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl",children:"Why are you here"})})}export{a as default};
