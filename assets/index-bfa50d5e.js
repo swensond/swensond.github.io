@@ -1,1 +1,0 @@
-import{j as e,F as t}from"./index-e58e7247.js";function l(){return e(t,{children:e("div",{className:"relative",children:e("h2",{className:"text-3xl leading-8 font-extrabold tracking-tight text-hollywood_cerise-500 sm:text-4xl"})})})}export{l as default};
