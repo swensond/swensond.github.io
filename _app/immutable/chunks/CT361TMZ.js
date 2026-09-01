@@ -1,1 +1,0 @@
-import{t as e}from"./HclGiUj8.js";var t=null;function n(){return t||=e(()=>import(`./ChwZkWde.js`).then(e=>e.default),[],import.meta.url),t}async function r(e){if(typeof window>`u`)return e;let t=await n();return e.map(e=>({...e,descriptionHtml:t.sanitize(e.description??``,{USE_PROFILES:{html:!0}})}))}export{r as t};
