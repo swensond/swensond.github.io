@@ -1,1 +1,0 @@
-function e(e){return document.body.appendChild(e),{destroy(){e.remove()}}}export{e as t};
